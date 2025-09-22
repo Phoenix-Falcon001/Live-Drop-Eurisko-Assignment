@@ -106,3 +106,6 @@ Customers frequently contact support for order status or policy clarification, d
 
 ### Feasibility Note
 FAQ is already in markdown. Order-status API exists. Next prototype: wire retrieval into LLM prompt and test on 100 sample queries for accuracy.
+See probe logs under [/docs/ai-first/probe/typeahead-demo.log](./probe/typeahead-demo.log).
+See assistant sample conversation log under [/docs/ai-first/probe/support-sample.log](./probe/support-sample.log).
+
