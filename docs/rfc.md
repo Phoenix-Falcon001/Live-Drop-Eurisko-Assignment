@@ -14,3 +14,7 @@ This RFC captures the direction for AI-first features that directly impact conve
 - Increase conversion rate by improving search relevance.  
 - Reduce support contact rate through automation.  
 - Ensure AI use remains reliable, low-latency, and cost-effective.
+
+## AI Touchpoints
+
+See [/docs/ai-first/ai-capability-map.md](./ai-first/ai-capability-map.md) for the capability map and selected touchpoints.
