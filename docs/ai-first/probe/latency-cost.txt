@@ -10,3 +10,4 @@ Support Assistant:
 - Average latency: 400–500 ms
 - Cost per query: ~$0.001–0.002
 - Fits within daily budget: $5/day (≈ 5,000 queries)
+
